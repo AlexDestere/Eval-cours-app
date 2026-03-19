@@ -1,5 +1,5 @@
-import React, { useState, useEffect, useRef, useCallback } from 'react';
-import {
+import react, { useState, useEffect, useRef, useCallback } from 'react';
+import recharts, {
   RadarChart,
   Radar,
   PolarGrid,
